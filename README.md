@@ -1,16 +1,37 @@
-### Hi there 👋
+# 안녕하세요👋🏻
 
-<!--
-**changdae20/changdae20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+우선 저의 깃헙을 찾아주셔서 감사합니다.<br/>
+발걸음 해주신게 아깝지 않도록 저에 대한 소개나 재미있는 것들을 많이 보여드리도록 노력할게요.<br/><br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 자기소개
+* 2021.03.25 ~ 산업기능요원(보충역) 대체복무중
+* 2018.03.01 ~ 서울대학교 전기정보공학부 재학중 (현재 109/130학점 이수)
+* 2016.03.01 ~ 2018.02.28 울산과학고등학교 조기졸업(2학년 졸업)<br/><br/>
+
+* 혼자 하고싶은 개발을 자주 하는편이에요 : 토이프로젝트는 실용성보다는 재미를 추구할 수 있어서 좋은 것 같아요. <br/><br/>
+* 편식이 심해요 : 반도체나 전력쪽 수업은 전혀 듣지않고 프로그래밍이나 하드웨어쪽 전공만 이수했어요. 그래도 새로운 언어를 배우는건 항상 설레고 재밌어요! Go나 Lua, 그리고 flutter(dart)를 새로 공부하고 싶어요. <br/><br/>
+* 한다면 하는편이에요 : 처음 마음먹는데는 오래 걸리는 편이지만, 한번 시작한 프로젝트는 결과물이 나올 때 까지 붙잡고 마무리하는 편이에요. 물론 퀄리티는 보장 못해요ㅎ <br/><br/>
+
+# 기술스택
+저의 기술스택과 주요 프로젝트들은 다음과 같아요.
+
+**1. C/C++**
+
+"지능시스템개론"이란 과목을 수강하며 자율주행자동차를 만든적이 있어요. 사용한 주요 알고리즘으로는<br/>
+<br/>PID제어(설정한 경로대로 차를 잘 움직이도록 제어)
+<br/>RRT(지도와 로봇의 위치가 주어졌을 때 경로를 탐색하고 설정)
+<br/>AMCL(지도와 센서를 통해 얻은 데이터를 종합하여 위치를 결정)
+<br/>SLAM(로봇의 위치를 결정하고 지속적으로 지도를 작성)
+<br/><br/>가 있어요. ubuntu환경에서 ros를 이용하여 작업했고, C++언어로 개발했답니다. 시뮬레이션에선 그렇게 좋은 성과를 얻지는 못했지만, 학교 건물 1층에서 실제 RC car를 이용하여 프로젝트를 진행했을 때 1등을 해서 좋은 성적을 받았어요!<br/><br/>
+
+아쉽게도 Private Repository라 코드를 보여드릴 순 없지만, 훌륭하신 조교님들이 촬영해주신 영상들이 남아있답니다! 
+<br/>[1인칭 영상](https://youtu.be/qmPlMQ_SL7M)
+<br/>[고정시점 영상](https://youtu.be/16EdMgwOFfY)
+<br/>[프로젝트 설명](http://rllab.snu.ac.kr/courses/intelligent-systems_2020/project-information)
+<hr/>
+<br/>
+
+3학년 1학기 때 3D Vision, Computer Graphics 관련 랩에서 인턴을 하며 Ray Tracing 관련 공부를 한적이 있어요. 그 과정에서 C++로 Ray Tracer를 구현하고, global illumination, phong model이나 Path Tracing 알고리즘을 구현해보는 등 기초적인 그래픽스 프로그래밍을 공부했어요.
+<br/><br/>
+이 내용도 아쉽게도 소스코드가 남아있지 않아요ㅠ 언젠간 다시 CUDA나 그래픽스 프로그래밍을 잡게된다면 꼭 Public Repo로 작업해볼게요!
