@@ -3,7 +3,8 @@
 우선 저의 깃헙을 찾아주셔서 감사합니다.<br/>
 발걸음 해주신게 아깝지 않도록 저에 대한 소개나 재미있는 것들을 많이 보여드리도록 노력할게요.<br/><br/><br/>
 
-
+# Problem Solving 🏹
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=changdae20)](https://solved.ac/changdae20) <br><br>
 # 자기소개 🙃
 * 2021.03.25 ~ 산업기능요원(보충역) 대체복무중
 * 2018.03.01 ~ 서울대학교 전기정보공학부 재학중 (현재 109/130학점 이수)
