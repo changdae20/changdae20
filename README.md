@@ -6,7 +6,7 @@
 # Problem Solving 🏹
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=changdae20)](https://solved.ac/changdae20) <br><br>
 # 자기소개 🙃
-* 2021.03.25 ~ 산업기능요원(보충역) 대체복무중
+* 2021.03.25 ~ 2023.02.24 산업기능요원(보충역) 복무만료(마크애니)
 * 2018.03.01 ~ 서울대학교 전기정보공학부 재학중 (현재 109/130학점 이수)
 * 2016.03.01 ~ 2018.02.28 울산과학고등학교 조기졸업(2학년 졸업)<br/><br/>
 
@@ -30,14 +30,16 @@
 <br/>[1인칭 영상](https://youtu.be/qmPlMQ_SL7M)
 <br/>[고정시점 영상](https://youtu.be/16EdMgwOFfY)
 <br/>[프로젝트 설명](http://rllab.snu.ac.kr/courses/intelligent-systems_2020/project-information)
-<hr/>
-<br/>
-
-3학년 1학기 때 3D Vision, Computer Graphics 관련 랩에서 인턴을 하며 Ray Tracing 관련 공부를 한적이 있어요. 그 과정에서 C++로 Ray Tracer를 구현하고, global illumination, phong model이나 Path Tracing 알고리즘을 구현해보는 등 기초적인 그래픽스 프로그래밍을 공부했어요.
-<br/><br/>
-이 내용도 아쉽게도 소스코드가 남아있지 않아요ㅠ 언젠간 다시 CUDA나 그래픽스 프로그래밍을 잡게된다면 꼭 Public Repo로 작업해볼게요!💪🏻
 
 <hr/>
+<img src="https://user-images.githubusercontent.com/46400212/225736713-87af4a77-a0a9-4efd-8f40-7fbd4a2fcc26.png" style="height:200px">
+
+[LabPPBot](https://github.com/changdae20/LabPPBot_Cpp) 이라는 프로젝트를 혼자서 진행하고 있어요. <br/>
+
+**LabPPBot은 C++로 구현한 자동 카카오톡 봇**으로, 일반 카카오톡 봇인 플러스친구등과는 자유롭게 단톡방에 초대하여 친구들과 함께 사용할 수 있다는 점이 다르답니다. <br/>
+현재는 게임 정보 로딩, 자동 업데이트, 오늘의 백준, 백준 알리미 등의 다양한 기능이 구현되어 있습니다. <br/>
+
+요즘 제가 가장 많이 열정, 애정을 쏟는 프로젝트이기도 하답니다!
 <br/>
 
 **2. Python**
