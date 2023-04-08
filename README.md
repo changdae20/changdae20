@@ -6,7 +6,9 @@
 <br/><br/>
 
 # Problem Solving 🏹
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=changdae20)](https://solved.ac/changdae20) <br><br>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=changdae20)](https://solved.ac/changdae20) <br/><br/>
+PS에 사용한 소스코드들은 여기서 보실 수 있습니다 : [BOJ](https://github.com/changdae20/BOJ)
+<br>
 # 자기소개 🙃
 * 2021.03.25 ~ 2023.02.24 산업기능요원(보충역) 복무만료(마크애니)
 * 2021.07.12 ~    현재    (주)마크애니 재직중 (복무만료 이후 계속 재직중)
