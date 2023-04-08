@@ -1,13 +1,16 @@
 # 안녕하세요 👋🏻
 
 우선 저의 깃헙을 찾아주셔서 감사합니다.<br/>
-발걸음 해주신게 아깝지 않도록 저에 대한 소개나 재미있는 것들을 많이 보여드리도록 노력할게요.<br/><br/><br/>
+발걸음 해주신게 아깝지 않도록 저에 대한 소개나 재미있는 것들을 많이 보여드리도록 노력할게요.<br/><br/>
+**저에 대한 간단한 설명은 여기서 찾아보실 수 있습니다 : [CV](CV_ChangdaeSon.pdf)**
+<br/><br/>
 
 # Problem Solving 🏹
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=changdae20)](https://solved.ac/changdae20) <br><br>
 # 자기소개 🙃
 * 2021.03.25 ~ 2023.02.24 산업기능요원(보충역) 복무만료(마크애니)
-* 2018.03.01 ~ 서울대학교 전기정보공학부 재학중 (현재 109/130학점 이수)
+* 2021.07.12 ~    현재    (주)마크애니 재직중 (복무만료 이후 계속 재직중)
+* 2018.03.01 ~    현재    서울대학교 전기정보공학부 재학중 (현재 109/130학점 이수)
 * 2016.03.01 ~ 2018.02.28 울산과학고등학교 조기졸업(2학년 졸업)<br/><br/>
 
 * 혼자 하고싶은 개발을 자주 하는편이에요 : 토이프로젝트는 실용성보다는 재미를 추구할 수 있어서 좋은 것 같아요. <br/><br/>
@@ -19,6 +22,18 @@
 
 **1. C/C++**
 
+<img src="https://user-images.githubusercontent.com/46400212/225736713-87af4a77-a0a9-4efd-8f40-7fbd4a2fcc26.png" style="height:200px">
+
+[LabPPBot](https://github.com/changdae20/LabPPBot_Cpp) 이라는 프로젝트를 혼자서 진행하고 있어요. <br/>
+여기서 사용되는 REST API 서버는 [LabPPBot_Server](https://github.com/changdae20/LabPPBot_Server)에서 확인하실 수 있답니다. <br/>
+
+**LabPPBot은 C++로 구현한 자동 카카오톡 봇**으로, 일반 카카오톡 봇인 플러스친구등과는 자유롭게 단톡방에 초대하여 친구들과 함께 사용할 수 있다는 점이 다르답니다. <br/>
+현재는 게임 정보 로딩, 자동 업데이트, 오늘의 백준, 백준 알리미 등의 다양한 기능이 구현되어 있습니다. <br/>
+
+요즘 제가 가장 많이 열정, 애정을 쏟는 프로젝트이기도 하답니다!
+<br/>
+
+<hr/>
 "지능시스템개론"이란 과목을 수강하며 자율주행자동차를 만든적이 있어요. 사용한 주요 알고리즘으로는<br/>
 <br/>PID제어(설정한 경로대로 차를 잘 움직이도록 제어)
 <br/>RRT(지도와 로봇의 위치가 주어졌을 때 경로를 탐색하고 설정)
@@ -31,16 +46,6 @@
 <br/>[고정시점 영상](https://youtu.be/16EdMgwOFfY)
 <br/>[프로젝트 설명](http://rllab.snu.ac.kr/courses/intelligent-systems_2020/project-information)
 
-<hr/>
-<img src="https://user-images.githubusercontent.com/46400212/225736713-87af4a77-a0a9-4efd-8f40-7fbd4a2fcc26.png" style="height:200px">
-
-[LabPPBot](https://github.com/changdae20/LabPPBot_Cpp) 이라는 프로젝트를 혼자서 진행하고 있어요. <br/>
-
-**LabPPBot은 C++로 구현한 자동 카카오톡 봇**으로, 일반 카카오톡 봇인 플러스친구등과는 자유롭게 단톡방에 초대하여 친구들과 함께 사용할 수 있다는 점이 다르답니다. <br/>
-현재는 게임 정보 로딩, 자동 업데이트, 오늘의 백준, 백준 알리미 등의 다양한 기능이 구현되어 있습니다. <br/>
-
-요즘 제가 가장 많이 열정, 애정을 쏟는 프로젝트이기도 하답니다!
-<br/>
 
 **2. Python**
 
@@ -62,7 +67,7 @@ JS나 GS는 최근에 제가 관심을 가지고 공부하고 있는 언어에�
 제일 처음 시작한 프로젝트는 Google Script를 이용해서 온라인 RPG게임인 "메이플스토리"와 관련한 여러 Tool 개발이었어요. maple.gg 라는 사이트에서 특정 정보를 크롤링 해오거나, 공식 홈페이지에서 정보를 크롤링해서 데이터를 가공한 뒤 유저들에게 이쁘게 보여주는게 목표였죠. 그중 하나가 바로 "경험치 기록"이에요 : [Maple EXP. Recorder](https://github.com/changdae20/Maple-Exp.-Recorder)<br/><br/>
 처음엔 재미로 누가누가 더 메이플을 열심히 하는지, 사냥을 열심히 하는지 비교하기 위해 만들었다가 친구들과 지인들 사이에서 호평을 받아 꽤나 인기가 있었던 프로젝트에요. Repo에 방문하셔서 이미지만 보셔도 어떤 느낌인지 바로 감이 오실거에요!<br/><br/>
 <hr/>
-회사에서는 MySQL DB와 Node.js를 이용하여 API서버를 개발하는 업무를 맡고있어요. 이를 이용해서 친구와 함께 게임관련 기록 Tool을 개발하기도 했어요. 아주 간단한 RESTful API서버지만요 :)</br>
+이전 회사에서는 MySQL DB와 Node.js를 이용하여 API서버를 개발하는 업무를 맡았었어요. 이를 이용해서 친구와 함께 게임관련 기록 Tool을 개발하기도 했어요. 아주 간단한 RESTful API서버지만요 :)</br>
 
 [Client](https://github.com/shortcakesweets/CoTN-stat-recorder)<br/>
 [Server](https://github.com/changdae20/CoTN-recorder-server)<br/>
