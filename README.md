@@ -1,7 +1,7 @@
 # 안녕하세요 👋🏻
 
-우선 저의 깃헙을 찾아주셔서 감사합니다.<br/>
-발걸음 해주신게 아깝지 않도록 저에 대한 소개나 재미있는 것들을 많이 보여드리도록 노력할게요.<br/><br/>
+저의 깃헙을 찾아주셔서 감사합니다.<br/>
+항상 성장하는 개발자가 되고, 재미있는 것들을 많이 보여드리도록 노력하겠습니다.<br/><br/>
 **저에 대한 간단한 설명은 여기서 찾아보실 수 있습니다 : [CV](CV_ChangdaeSon.pdf)**
 <br/><br/>
 
@@ -11,78 +11,64 @@ PS에 사용한 소스코드들은 여기서 보실 수 있습니다 : [BOJ](htt
 <br>
 # 자기소개 🙃
 * 2021.03.25 ~ 2023.02.24 산업기능요원(보충역) 복무만료(마크애니)
-* 2021.07.12 ~    현재    (주)마크애니 재직중 (복무만료 이후 계속 재직중)
-* 2018.03.01 ~    현재    서울대학교 전기정보공학부 재학중 (현재 109/130학점 이수)
+* 2021.07.12 ~ 2023.09.22 (주)마크애니
+* 2018.03.01 ~    현재    서울대학교 전기정보공학부 재학중 (현재 121/130학점 이수, GPA 3.92/4.3)
 * 2016.03.01 ~ 2018.02.28 울산과학고등학교 조기졸업(2학년 졸업)<br/><br/>
 
-* 혼자 하고싶은 개발을 자주 하는편이에요 : 토이프로젝트는 실용성보다는 재미를 추구할 수 있어서 좋은 것 같아요. <br/><br/>
-* 편식이 심해요 : 반도체나 전력쪽 수업은 전혀 듣지않고 프로그래밍이나 하드웨어쪽 전공만 이수했어요. 그래도 새로운 언어를 배우는건 항상 설레고 재밌어요! Go나 Lua, 그리고 flutter(dart)를 새로 공부하고 싶어요. <br/><br/>
-* 한다면 하는편이에요 : 처음 마음먹는데는 오래 걸리는 편이지만, 한번 시작한 프로젝트는 결과물이 나올 때 까지 붙잡고 마무리하는 편이에요. 물론 퀄리티는 보장 못해요ㅎㅎ <br/><br/><br/>
-
-# 기술스택 🔧
-저의 기술스택과 관련해서 진행했던 주요 프로젝트들은 다음과 같아요.
-
-**1. C/C++**
+# 진행한 프로젝트 🔧
 
 <img src="https://user-images.githubusercontent.com/46400212/225736713-87af4a77-a0a9-4efd-8f40-7fbd4a2fcc26.png" style="height:200px">
 
-[LabPPBot](https://github.com/changdae20/LabPPBot_Cpp) 이라는 프로젝트를 혼자서 진행하고 있어요. <br/>
-여기서 사용되는 REST API 서버는 [LabPPBot_Server](https://github.com/changdae20/LabPPBot_Server)에서 확인하실 수 있답니다. <br/>
+[LabPPBot](https://github.com/changdae20/LabPPBot_Cpp) 이라는 프로젝트를 혼자서 진행하고 있습니다 <br/>
+여기서 사용되는 REST API 서버는 [LabPPBot_Server](https://github.com/changdae20/LabPPBot_Server)에서 확인하실 수 있습니다. <br/>
 
-**LabPPBot은 C++로 구현한 자동 카카오톡 봇**으로, 일반 카카오톡 봇인 플러스친구등과는 자유롭게 단톡방에 초대하여 친구들과 함께 사용할 수 있다는 점이 다르답니다. <br/>
-현재는 게임 정보 로딩, 자동 업데이트, 오늘의 백준, 백준 알리미 등의 다양한 기능이 구현되어 있습니다. <br/>
+**LabPPBot은 C++로 구현한 자동 카카오톡 봇**으로, 일반 카카오톡 봇인 플러스친구등과는 자유롭게 단톡방에 초대하여 친구들과 함께 사용할 수 있다는 점이 다릅니다. <br/>
+현재는 게임 정보 로딩, 자동 업데이트, 오늘의 백준, 백준 알리미 등, 재미를 위한 가챠기능 등의 다양한 기능이 구현되어 있습니다. <br/>
 
-요즘 제가 가장 많이 열정, 애정을 쏟는 프로젝트이기도 하답니다!
+<img src="https://github.com/changdae20/changdae20/assets/46400212/9eaabc9b-52fa-4fc2-93f2-44c7fb14b9d6">
+
+현재 제가 가장 많이 열정, 애정을 쏟는 프로젝트입니다.
 <br/>
 
 <hr/>
-"지능시스템개론"이란 과목을 수강하며 자율주행자동차를 만든적이 있어요. 사용한 주요 알고리즘으로는<br/>
+"지능시스템개론"이란 과목을 수강하며 자율주행 자동차를 만든 프로젝트입니다. 사용한 주요 알고리즘으로는 다음과 같은 것들이 있습니다 : <br/>
 <br/>PID제어(설정한 경로대로 차를 잘 움직이도록 제어)
 <br/>RRT(지도와 로봇의 위치가 주어졌을 때 경로를 탐색하고 설정)
 <br/>AMCL(지도와 센서를 통해 얻은 데이터를 종합하여 위치를 결정)
 <br/>SLAM(로봇의 위치를 결정하고 지속적으로 지도를 작성)
-<br/><br/>가 있어요. ubuntu환경에서 ros를 이용하여 작업했고, C++언어로 개발했답니다. 시뮬레이션에선 그렇게 좋은 성과를 얻지는 못했지만, 학교 건물 1층에서 실제 RC car를 이용하여 프로젝트를 진행했을 때 1등을 해서 좋은 성적을 받았어요!🥇<br/><br/>
+<br/><br/>Ubuntu 18.04환경에서 ROS를 이용하여 작업했고, C++언어로 개발했습니다. 학교 건물 301동 제1공학관 1층에서 실제 RC car를 이용하여 프로젝트를 진행하여 1등이라는 좋은 성적을 거두었습니다🥇<br/><br/>
 
-아쉽게도 Private Repository라 코드를 보여드릴 순 없지만, 훌륭하신 조교님들이 촬영해주신 영상들이 남아있답니다! 📹
+훌륭하신 조교님들이 촬영해주신 영상들이 남아있습니다📹
+<br/>[Repository](https://github.com/changdae20/Introduction-to-Intelligent-System)
 <br/>[1인칭 영상](https://youtu.be/qmPlMQ_SL7M)
 <br/>[고정시점 영상](https://youtu.be/16EdMgwOFfY)
 <br/>[프로젝트 설명](http://rllab.snu.ac.kr/courses/intelligent-systems_2020/project-information)
 
-
-**2. Python**
-
-"알고리즘의 기초" 과목을 수강하며 간단한 sorting, SSSP, Dynamic Programming을 python으로 구현한 적이 있어요. 너무 간단한 과제라 양이 그렇게 많지는 않지만, 다행히 소스코드가 남아있어요.<br/>
-[알고리즘의 기초](https://github.com/changdae20/Introduction-to-Algorithms)
-<br/><br/>
-"딥러닝의 기초" 과목을 들을 때도 python을 이용했어요. numpy나 keras같은 좋은 라이브러리들 때문이죠.<br/>
-우선 CNN으로는 AlexNet과 VGGNet을 구현해봤어요. 너무 오래된 모델들이지만, 딥러닝의 이론적인 내용을 이해하고 실습하는 용도로는 매우 좋았던 것 같아요.<br/>
-다음으로 RNN으로는 Text Generating과 관련된 과제를 수행했어요. 이것도 아주 간단한 과제였지만, RNN과 LSTM을 이해하는데는 너무 좋았던 과제고 재미있었어요. 특히 관련 자료를 찾아봤을 때 Shakespeare의 data로 학습을 시켰더니 문체를 흉내내는게 신기했어요.<br/>
-이것도 과제들이 양이 많지 않아 소스코드가 남아있어요.
-
-[딥러닝의 기초](https://github.com/changdae20/Introduction-to-Deep-Learning)
-<hr><br/>
-
-**3. JS/TS, Node.js, Google Script(이하 GS)**
-
-JS나 GS는 최근에 제가 관심을 가지고 공부하고 있는 언어에요. 현재 회사에서도 Node.js를 이용한 백엔드 업무를 맡고있어요.<br/><br/>
-
-제일 처음 시작한 프로젝트는 Google Script를 이용해서 온라인 RPG게임인 "메이플스토리"와 관련한 여러 Tool 개발이었어요. maple.gg 라는 사이트에서 특정 정보를 크롤링 해오거나, 공식 홈페이지에서 정보를 크롤링해서 데이터를 가공한 뒤 유저들에게 이쁘게 보여주는게 목표였죠. 그중 하나가 바로 "경험치 기록"이에요 : [Maple EXP. Recorder](https://github.com/changdae20/Maple-Exp.-Recorder)<br/><br/>
-처음엔 재미로 누가누가 더 메이플을 열심히 하는지, 사냥을 열심히 하는지 비교하기 위해 만들었다가 친구들과 지인들 사이에서 호평을 받아 꽤나 인기가 있었던 프로젝트에요. Repo에 방문하셔서 이미지만 보셔도 어떤 느낌인지 바로 감이 오실거에요!<br/><br/>
 <hr/>
-이전 회사에서는 MySQL DB와 Node.js를 이용하여 API서버를 개발하는 업무를 맡았었어요. 이를 이용해서 친구와 함께 게임관련 기록 Tool을 개발하기도 했어요. 아주 간단한 RESTful API서버지만요 :)</br>
+"임의 정밀도 부동소수점을 이용한 딥러닝 모델 양자화 및 성능 손실 연구"라는 주제로 학부 졸업연구를 진행하고 있습니다.
+<br/>
+FP32, FP16, FP8처럼 bitwidth를 줄일 수록 추론이 빨라지고 모델의 용량이 작아지는 반면 성능 손실 가능성이 커진다는 점에 착안하여 8,16,32비트가 아닌 사용자가 지정하는 임의 정밀도 부동소수점을 이용하여 모델을 양자화하는 프레임워크를 개발하였습니다.<br/>
+Pytorch의 공식 구현 코드를 일부 참고하여 C++로 작성하였습니다.<br/>
 
-[Client](https://github.com/shortcakesweets/CoTN-stat-recorder)<br/>
-[Server](https://github.com/changdae20/CoTN-recorder-server)<br/>
-<hr/>
-마지막으로 소개드릴 건 하루만에 만들어본 장난감이에요. Rhythm Cycle이라고 이름지었는데, 정해진 트랙을 따라 진행하며 선이 꺾이는 지점에서 드럼소리가 나며 연주가 되는 프로젝트에요.🥁<br/>
+<img src="https://github.com/changdae20/changdae20/assets/46400212/d7860966-f398-45ef-83e7-427566659887">
 
-[Demo 영상](https://youtu.be/xnNi17Sa9cU) <br/>
-[Rhythm Cycle](https://github.com/changdae20/rhythm-cycle) <br/>
+```
+root@1723a04c0176:~/qresnet# ./bin/main 
+[util.hpp L24] image.rows : 128, image.cols : 128
+Current Precision : total 15-bit
+=== Predicted Result ===
+Top 1 : tiger, Panthera tigris with logit 41.00000000000000000000
+Top 2 : tiger cat with logit 34.37500000000000000000
+Top 3 : jaguar, panther, Panthera onca, Felis onca with logit 29.09375000000000000000
+Top 4 : leopard, Panthera pardus with logit 26.48437500000000000000
+Top 5 : snow leopard, ounce, Panthera uncia with logit 25.06250000000000000000
+Elapsed time : 4362ms
+```
 
-<br/><br/>
+[Repository](https://github.com/changdae20/qResNet)
 
 # Contact? 📞
 
-마지막까지 읽어주셔서 정말 감사드려요. 혹시 저에대해 추가적으로 궁금한 점이 있으시다면, 아래 이메일로 연락 부탁드려요! 블로그에는 저의 개인적인 일상이나 개발일기등이 있으니, 제 이야기가 더 궁금하시다면 찾아와주시면 감사할 것 같아요ㅎㅎ<br/><br/>
+마지막까지 읽어주셔서 정말 감사드립니다. 혹시 저에대해 추가적으로 궁금한 점이 있으시다면, 아래 이메일로 연락주시면 감사하겠습니다! 블로그에는 저의 개인적인 일상이나 개발 일기등이 있으니, 제 이야기가 더 궁금하시다면 찾아와 소통해주시면 정말 감사할 것 같습니다.<br/><br/>
 E-Mail : changdae20@naver.com <br/>
 Blog : [창대는 공대공대 :: 네이버 블로그](https://blog.naver.com/changdae20)
